@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm a Python Backend Developer</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1B9AF7&center=true&vCenter=true&width=435&lines=Python+Backend+Developer;Django+%7C+DRF+%7C+MySQL+%7C+AWS+%7C+Linux;Passionate+about+Clean+Architecture+%26+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1B9AF7&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Django+%7C+DRF+%7C+MySQL+%7C+AWS+%7C+Linux;Passionate+about+Clean+Architecture+%26+APIs" alt="Typing SVG" />
 </p>
 
 <p align="center">
